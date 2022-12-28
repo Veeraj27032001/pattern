@@ -33,7 +33,8 @@ public class DoublePattern {
         System.out.println();
        }
     }
-    
+}
+
  # output
  5
  
@@ -46,4 +47,4 @@ public class DoublePattern {
 5544332211
 
 54321
-}
+
