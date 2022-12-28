@@ -14,7 +14,7 @@ For N = 3 the pattern will be
 
 import java.util.*;
 
-public class duplicate {
+public class DoublePattern {
 
 
         public static void main (String args [])
