@@ -1,5 +1,7 @@
 # pattern
 # print double pattern
+question from https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1
+
 You are given a number N. You need to print the pattern for the given value of N.
 
 For N = 2 the pattern will be 
