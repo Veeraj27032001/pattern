@@ -10,7 +10,7 @@ For N = 2 the pattern will be
 For N = 3 the pattern will be 
 3 3 3 2 2 2 1 1 1$3 3 2 2 1 1$3 2 1
 
-
+# solution
 import java.util.*;
 
 public class DoublePattern {
