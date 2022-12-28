@@ -20,11 +20,11 @@ public class DoublePattern {
     {
        Scanner sc=new Scanner(System.in);
        int num= sc.nextInt();
-       int temp=num;
+       int temp;
         //for printing multiple lines 
          for(int i=0;i<num;i++)
          {
-             temp=temp-i;
+             temp=num-i;
              //j loop for printing  321
              for(int j=num;j>0;j--)
              {
@@ -40,5 +40,7 @@ public class DoublePattern {
 }
 
  # output
+ 5
  
+5 5 5 5 5 4 4 4 4 4 3 3 3 3 3 2 2 2 2 2 1 1 1 1 1 $5 5 5 5 4 4 4 4 3 3 3 3 2 2 2 2 1 1 1 1 $5 5 5 4 4 4 3 3 3 2 2 2 1 1 1 $5 5 4 4 3 3 2 2 1 1 $5 4 3 2 1 $
 
